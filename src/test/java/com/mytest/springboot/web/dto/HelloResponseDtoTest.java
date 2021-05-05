@@ -1,7 +1,6 @@
 package com.mytest.springboot.web.dto;
 
 import org.junit.Test;
-import sun.security.x509.OtherName;
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class HelloResponseDtoTest {
